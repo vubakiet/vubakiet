@@ -5,15 +5,15 @@
 </a></p>
 
 <p align="center"><a href="https://wakatime.com/@vubakiet">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@vubakiet/28269aa6-192d-409e-a0c2-ba05ac4ce5ae.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@vubakiet/9d166ece-6251-45ff-9357-09e7fb4faa50.svg" />
 </a>
 <a href="https://wakatime.com/@vubakiet">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@vubakiet/91d3cffd-2c9e-47f8-8521-2f284b94c60e.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@vubakiet/3b5c47c0-7a00-4a5a-800d-56ffe240088c.svg" />
 </a></p>
 
 <p align="center"><a href="https://wakatime.com/@vubakiet">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@vubakiet/2090da91-11be-4682-8d76-b725023cc159.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@vubakiet/1fd58181-44e5-41f9-8e4f-688595e37306.svg" />
 </a>
 <a href="https://wakatime.com/@vubakiet">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@vubakiet/2ac803e4-5b2d-4cfb-80de-c6b18af94a42.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@vubakiet/7a839683-9c92-46be-b12f-92d86de4e91e.svg" />
 </a></p>
